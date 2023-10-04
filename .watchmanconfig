@@ -1,0 +1,5 @@
+{
+  "settle": 2000,
+  "content_hash_max_items": 500000,
+  "suppress_recrawl_warnings": true
+}

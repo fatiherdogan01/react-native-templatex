@@ -1,0 +1,15 @@
+{
+  "common": {
+    "back": "Back"
+  },
+  "homeScreen": {
+    "title": "Home Screen",
+    "goToDetailScreen": "Go To Detail Screen"
+  },
+  "profileScreen": {
+    "title": "Profile Screen"
+  },
+  "homeDetailScreen": {
+    "title": "Home Detail Screen"
+  }
+}

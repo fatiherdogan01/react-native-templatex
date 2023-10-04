@@ -1,0 +1,15 @@
+{
+  "common": {
+    "back": "Geri"
+  },
+  "homeScreen": {
+    "title": "Ana Sayfa",
+    "goToDetailScreen": "Detay Ekranına Git"
+  },
+  "profileScreen": {
+    "title": "Profil Ekranı"
+  },
+  "homeDetailScreen": {
+    "title": "Anasayfa Detay Ekranı"
+  }
+}
